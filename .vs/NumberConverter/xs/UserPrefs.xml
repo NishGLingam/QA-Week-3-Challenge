@@ -1,10 +1,17 @@
 ﻿<Properties StartupConfiguration="{A83C4881-6B8C-4A54-8381-B88B646BFD1F}|Default">
   <MonoDevelop.Ide.ItemProperties.NumberConverter PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Converter.cs">
+    <Files>
+      <File FileName="Converter.cs" Line="12" Column="25" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="NumberConverter" expanded="True" selected="True" />
+          <Node name="NumberConverter" expanded="True">
+            <Node name="NumberConverter" expanded="True">
+              <Node name="Converter.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
